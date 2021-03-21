@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @musabash
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning React JS
+- 👋 Hi, I’m (@musabash) Musa!
+- 👀 I’m interested in web development (HTML, CSS, Javascript, React).
+- 🌱 I’m currently improving my React knowledge.
 - 💞️ I’m looking to collaborate on bigger projects to get experienced as a junior front-end developer.
 - 📫 How to reach me: devmusabas@gmail.com
 
