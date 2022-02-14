@@ -1,7 +1,7 @@
 - 👋 Hi, I’m (@musabash) Musa! I am a front end developer.
 - 👀 I’m interested in web development (HTML, CSS, Javascript, React).
 - 🌱 I’m am currently working for *[XYZ Reality](https://www.xyzreality.com/)*.
-- 💞️ I’m looking to collaborate on bigger projects.
+- 💞️ 
 - 📫 How to reach me: musa.bas@musabas.com
 
 <!---
