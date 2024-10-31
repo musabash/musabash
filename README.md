@@ -1,6 +1,6 @@
 - 👋 Hi, I’m (@musabash) Musa! I am a front end developer.
-- 👀 I’m interested in web development (HTML, CSS, Javascript, React).
-- 🌱 I’m am currently working for *[eBit labs](https://ebitlabs.com/)*
+- 👀 I’m interested in web development (HTML, CSS, Javascript, React, Typescript, Next.js).
+- 🌱 I’m am currently working for *[My Claim Group](https://myclaimgroup.co.uk/)*
 - 📫 How to reach me: musa.bas@musabas.com
 
 <!---
